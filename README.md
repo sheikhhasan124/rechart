@@ -1,4 +1,5 @@
 # see more in rechart website  
+![alt text](./src/images/fancycart.PNG)
 
 # Getting Started with Create React App
 
